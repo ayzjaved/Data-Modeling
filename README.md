@@ -1,7 +1,7 @@
 # DATA MODELING WITH POWER BI
----
 
 *Normalizing Data and Creating Meaningful Insights*
+
 ---
 
 # DATA MODELING:
