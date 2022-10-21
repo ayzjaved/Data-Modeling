@@ -7,7 +7,7 @@
 # DATA MODELING:
 Data modeling is the process of creating a visual representation of either a whole information system or parts of it to communicate connections between data points and structures. The goal is to illustrate the types of data used and stored within the system, the relationships among these data types, the ways the data can be grouped and organized and its formats and attributes.Data modelling is a technique used in NORMALIZING data ,that is breaking them down into a fact table and dimension table.
 
-Data models are built around business needs. Rules and requirements are defined upfront through feedback from business stakeholders so they can be incorporated into the design of a new system or adapted in the iteration of an existing one. In this project, Data is normalized on the basis of permannent data and the continuous data foe better understanding of the relationships between the datasets.
+Data models are built around business needs. Rules and requirements are defined upfront through feedback from business stakeholders so they can be incorporated into the design of a new system or adapted in the iteration of an existing one. In this project, Data is normalized on the basis of permannent data and the continuous data for better understanding of the relationships between the datasets.
 
 ---
 #                                                           CaseStudy: *SUPERSTORE DATA*
